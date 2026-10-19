@@ -50,9 +50,9 @@
     "resolvedAt": 1792359279064
   },
   "ContentItem-0a8a4564-c67f-455c-bd9a-854f9a8fa9d5": {
-    "mp3": "https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut/gr3_audiocut/30385832_1800.mp3",
+    "mp3": "https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut/gr3_audiocut/30385832_1800.mp3",
     "date": "2026-09-21T05:42:00.000Z",
-    "resolvedAt": 1791191625324
+    "resolvedAt": 1792407306650
   },
   "ContentItem-b3ef260c-239c-4030-8828-647f8493c962": {
     "mp3": "https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut/gr3_audiocut/30389433_1800.mp3",
@@ -402,12 +402,12 @@
   "ContentItem-8ff0cd88-bbd5-4a4c-bf2c-06b63d1c4a1c": {
     "mp3": "https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut/gr3_audiocut/30500625_1800.mp3",
     "date": "2026-10-05T07:09:00.000Z",
-    "resolvedAt": 1791191624647
+    "resolvedAt": 1792407304972
   },
   "ContentItem-f6bc9dd5-0f7d-4f23-96e1-4a6386aa0f74": {
     "mp3": "https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut/gr3_audiocut/30499915_1800.mp3",
     "date": "2026-10-05T05:37:00.000Z",
-    "resolvedAt": 1791191625013
+    "resolvedAt": 1792407305832
   },
   "ContentItem-96a542b2-bff6-4e92-af0d-9dfd49b74bbc": {
     "mp3": "https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut/gr3_audiocut/30507278_1800.mp3",
@@ -748,5 +748,15 @@
     "mp3": "https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut/gr3_audiocut/30617130_1800.mp3",
     "date": "2026-10-18T17:57:00.000Z",
     "resolvedAt": 1792348937209
+  },
+  "ContentItem-91aa1272-8821-4d4b-92f0-b4ac31da4a0f": {
+    "mp3": "https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut/gr3_audiocut/30619513_1800.mp3",
+    "date": "2026-10-19T07:02:00.000Z",
+    "resolvedAt": 1792407304297
+  },
+  "ContentItem-f8ad3087-7c28-4f4c-9e1e-a075977e972a": {
+    "mp3": "https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut/gr3_audiocut/30618940_1800.mp3",
+    "date": "2026-10-19T05:30:00.000Z",
+    "resolvedAt": 1792407304640
   }
 }
