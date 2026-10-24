@@ -748,5 +748,15 @@
     "mp3": "https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut/gr3_audiocut/30662932_1800.mp3",
     "date": "2026-10-23T15:17:00.000Z",
     "resolvedAt": 1792780161529
+  },
+  "ContentItem-e38b7bb5-516c-47e8-85f7-3b5b1f4f872a": {
+    "mp3": "https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut/gr3_audiocut/30666450_1800.mp3",
+    "date": "2026-10-24T07:02:00.000Z",
+    "resolvedAt": 1792826712007
+  },
+  "ContentItem-a26226e9-5fac-4ed2-9e5f-3474709a1995": {
+    "mp3": "https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut/gr3_audiocut/30666037_1800.mp3",
+    "date": "2026-10-24T05:29:00.000Z",
+    "resolvedAt": 1792826712306
   }
 }
