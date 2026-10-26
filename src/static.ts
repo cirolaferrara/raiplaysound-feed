@@ -147,6 +147,10 @@ const podcasts = [
     title: "Il ritorno. Afghanistan, cinque anni dopo",
     path: "/programmi/ilritornoafghanistancinqueannidopo"
   },
+  {
+    title: "Bing",
+    path: "/programmi/bing"
+  },
 ]
 
 const audiobooks = [
